@@ -1,3 +1,5 @@
+
+/* c program for menubar */ 
 #include <gtk/gtk.h>
 #include <stdio.h>
 #include "menubar.h"
