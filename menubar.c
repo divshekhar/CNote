@@ -6,7 +6,7 @@ void quit_button(GtkWidget *widget, gpointer data)
 {
     g_print("To Implement Quit.\n");
 }
-
+//Function to save a file
 void save_button(GtkWidget *widget, gpointer *buffer)
 {
     GtkTextIter start, end;
