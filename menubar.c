@@ -63,6 +63,7 @@ void open_button(GtkWidget *widget, gpointer *buffer)
     gtk_widget_destroy (dialog);
 }
 
+// function for save as button
 void save_as_button(GtkWidget *widget, gpointer data)
 {
     GtkWidget *dialog;
